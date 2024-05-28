@@ -1,0 +1,42 @@
+[{
+    "name": "Ciccio",
+    "lastname": "Pasticcio",
+    "birthdate": "2000-1-13",
+    "jobTitle": "Cloud Architect",
+    "salary": 2000
+},
+{
+    "name": "Ciccia",
+    "lastname": "Pasticcia",
+    "birthdate": "1989-4-9",
+    "jobTitle": "Cloud Engineer",
+    "salary": 2200
+},
+{
+    "name": "Riccio",
+    "lastname": "Ripasticcio",
+    "birthdate": "2003-5-8",
+    "jobTitle": "Architect",
+    "salary": 1600
+},
+{
+    "name": "Riccia",
+    "lastname": "Ripasticcia",
+    "birthdate": "1990-3-15",
+    "jobTitle": "Interior Designer",
+    "salary": 1500
+},
+{
+    "name": "Mazzafiondo",
+    "lastname": "Potentissimo",
+    "birthdate": "1998-6-23",
+    "jobTitle": "Space Engineer",
+    "salary": 8000
+},
+{
+    "name": "Mazzafionda",
+    "lastname": "Potentissima",
+    "birthdate": "2001-9-30",
+    "jobTitle": "Astronaut",
+    "salary": 10000
+}]
